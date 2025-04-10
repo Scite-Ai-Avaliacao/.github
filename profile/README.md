@@ -4,7 +4,7 @@
 <img src="https://down-id.img.susercontent.com/file/id-11134207-7r98z-lwx3mcc0jr6j82"
   alt="comparative with Scite ai "
   width="750"
-  height="450"
+  height="750"
 />
 
 <a target="_blank" href="https://scite.ai/?via=new">Clique aqui para acessar!</a>
