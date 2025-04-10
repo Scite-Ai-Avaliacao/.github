@@ -17,8 +17,12 @@
 <h3>Facilidade de cadastro e navegação na plataforma</h3>
 <p>A primeira impressão ao utilizar Scite Ai é bastante positiva. O processo de cadastro é simples e direto, exigindo apenas alguns minutos para preenchimento de informações básicas. Uma vantagem relevante é a possibilidade de realizar o login integrado com contas Google ou instituições acadêmicas parceiras. Após o registro, a interface se apresenta intuitiva e fácil de navegar, mesmo para usuários menos acostumados com tecnologia. Destaca-se positivamente a clareza nas ferramentas oferecidas e a boa divisão dos recursos disponíveis no painel principal.</p>
 
+<a target="_blank" href="https://scite.ai/?via=new">Clique aqui para acessar !</a>
+
 <h3>Precisão e relevância dos resultados obtidos para busca acadêmica</h3>
 <p>A proposta da Scite Ai é ambiciosa: fornecer resultados que incluem não apenas citações tradicionais, mas avaliações qualitativas sobre afirmações específicas realizadas em artigos acadêmicos. Em nossos testes, a plataforma mostrou-se altamente confiável, retornando informações relevantes em mais de 80% das pesquisas feitas. Observamos também que a inteligência artificial categorizou corretamente cerca de 73% das citações, indicando com clareza se os resultados apoiavam, contradiziam ou apenas mencionavam indiretamente as afirmações procuradas.</p>
+
+<a target="_blank" href="https://scite.ai/?via=new">Clique aqui para acessar !</a>
 
 <p>Para compreender o potencial da ferramenta, comparamos rapidamente a Scite Ai com outras plataformas populares:</p>
 
