@@ -1,4 +1,4 @@
-<h1>Scite Ai avaliacao (Análise 2025): Essa plataforma é útil para pesquisadores?</h1>
+<h1>Scite Ai avaliacao test (Análise 2025): Essa plataforma é útil para pesquisadores?</h1>
 <p><strong>Scite Ai usuário</strong> | <time datetime="2025-04-10">abril 10, 2025</time></p>
 
 <img src="https://down-id.img.susercontent.com/file/id-11134207-7r98z-lwx3mcc0jr6j82"
